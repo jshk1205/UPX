@@ -1,5 +1,16 @@
-<h1> UPX 다운로드 <h1>
+UPX 형식
+upx [command] [option] filename
+
+UPX 다운로드
 1. https://upx.github.io/ 에서 UPX 다운로드
 2. CMD에서 UPX를 다운 받은 경로로 이동
-3. upx를 입력하여 다운 받은 UPX 압축 ㅎ해제
+3. upx를 입력하여 다운 받은 UPX 압축 해제
 4. CMD에 setx path "%PATH%;[UPX 경로]" 를 입력하여 환경 변수 설정 (CMD는 관리자 권한으로 실행)
+
+UPX 패킹 방법
+upx [filename.exe] 입력하여 패킹 
+
+UPX 언패킹 방법
+upx -d [filename.exe] 입력하여 언패킹
+
+UPX Command
