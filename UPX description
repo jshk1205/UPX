@@ -10,7 +10,8 @@ UPX 다운로드
 UPX 패킹 방법
 upx [filename.exe] 입력하여 패킹 
 upx [filename.exe] -o [filename_upx.exe] 파일이름을 지정하여 새로운 파일로 패킹
-![initial](https://user-images.githubusercontent.com/78183006/165720035-da7459df-2c99-4be8-8e6c-95b6b0a6c1fd.png)
+
+![image](https://user-images.githubusercontent.com/78183006/165720035-da7459df-2c99-4be8-8e6c-95b6b0a6c1fd.png)
 
 UPX 언패킹 방법
 upx -d [filename.exe] 입력하여 언패킹
